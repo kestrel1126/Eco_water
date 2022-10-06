@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/target/
+/web/node_modules/
+/web/out/artifacts/samdasoo_war_exploded/WEB-INF/classes/node_modules/
+/web/out/production/samdasoo/node_modules/
